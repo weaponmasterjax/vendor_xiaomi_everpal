@@ -3117,6 +3117,8 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/everpal/proprietary/vendor/lib64/libcares_naptr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcares_naptr.so \
     vendor/xiaomi/everpal/proprietary/vendor/lib64/libcarrierconfig.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcarrierconfig.so \
     vendor/xiaomi/everpal/proprietary/vendor/lib64/libccci_util.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libccci_util.so \
+    vendor/xiaomi/everpal/proprietary/vendor/lib64/libcmdl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcmdl.so \
+    vendor/xiaomi/everpal/proprietary/vendor/lib64/libcmdl_ndk.mtk.vndk.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcmdl_ndk.mtk.vndk.so \
     vendor/xiaomi/everpal/proprietary/vendor/lib64/libcodec2_hidl@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcodec2_hidl@1.0.so \
     vendor/xiaomi/everpal/proprietary/vendor/lib64/libcodec2_hidl@1.1.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcodec2_hidl@1.1.so \
     vendor/xiaomi/everpal/proprietary/vendor/lib64/libcodec2_hidl@1.2.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libcodec2_hidl@1.2.so \
@@ -3356,6 +3358,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/everpal/proprietary/vendor/lib64/libteeclientjni.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libteeclientjni.so \
     vendor/xiaomi/everpal/proprietary/vendor/lib64/libteeclientjni@1.1.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libteeclientjni@1.1.so \
     vendor/xiaomi/everpal/proprietary/vendor/lib64/libteei_daemon_vfs.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libteei_daemon_vfs.so \
+    vendor/xiaomi/everpal/proprietary/vendor/lib64/libtextclassifier_hash.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libtextclassifier_hash.so \
     vendor/xiaomi/everpal/proprietary/vendor/lib64/libtflite_mtk.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libtflite_mtk.so \
     vendor/xiaomi/everpal/proprietary/vendor/lib64/libthha.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libthha.so \
     vendor/xiaomi/everpal/proprietary/vendor/lib64/libtida@1.1.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libtida@1.1.so \

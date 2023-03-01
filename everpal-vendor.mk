@@ -3502,12 +3502,9 @@ PRODUCT_PACKAGES += \
     libwifi-hal-mtk \
     ImsService \
     GpuGameDriver.mt6833 \
-    HotwordEnrollmentOKGoogleRISCV \
-    HotwordEnrollmentXGoogleRISCV \
     SoterService \
     com.fingerprints.extension \
     com.fingerprints.fpmmi \
-    com.android.hotwordenrollment.common.util \
     android.hardware.dumpstate@1.1-service.xiaomi \
     android.hardware.neuralnetworks@1.3-service-mtk-gpu \
     android.hardware.usb@1.2-service-mediatekv2 \

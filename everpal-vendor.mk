@@ -12,7 +12,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/everpal/proprietary/vendor/bin/MI_IC:$(TARGET_COPY_OUT_VENDOR)/bin/MI_IC \
     vendor/xiaomi/everpal/proprietary/vendor/bin/MI_RIC:$(TARGET_COPY_OUT_VENDOR)/bin/MI_RIC \
     vendor/xiaomi/everpal/proprietary/vendor/bin/STFlashTool:$(TARGET_COPY_OUT_VENDOR)/bin/STFlashTool \
-    vendor/xiaomi/everpal/proprietary/vendor/bin/SoterProvisioningTool:$(TARGET_COPY_OUT_VENDOR)/bin/SoterProvisioningTool \
     vendor/xiaomi/everpal/proprietary/vendor/bin/atcid:$(TARGET_COPY_OUT_VENDOR)/bin/atcid \
     vendor/xiaomi/everpal/proprietary/vendor/bin/audiocmdservice_atci:$(TARGET_COPY_OUT_VENDOR)/bin/audiocmdservice_atci \
     vendor/xiaomi/everpal/proprietary/vendor/bin/autobt:$(TARGET_COPY_OUT_VENDOR)/bin/autobt \
@@ -3501,7 +3500,6 @@ PRODUCT_PACKAGES += \
     fingerprint.goodix.default \
     libwifi-hal-mtk \
     GpuGameDriver.mt6833 \
-    SoterService \
     com.fingerprints.extension \
     com.fingerprints.fpmmi \
     android.hardware.dumpstate@1.1-service.xiaomi \

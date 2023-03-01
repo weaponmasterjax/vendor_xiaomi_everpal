@@ -3500,7 +3500,6 @@ PRODUCT_PACKAGES += \
     fingerprint.fpc.default \
     fingerprint.goodix.default \
     libwifi-hal-mtk \
-    ImsService \
     GpuGameDriver.mt6833 \
     SoterService \
     com.fingerprints.extension \

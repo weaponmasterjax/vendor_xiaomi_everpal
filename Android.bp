@@ -79,17 +79,6 @@ cc_prebuilt_library_shared {
 }
 
 android_app_import {
-	name: "ImsService",
-	owner: "xiaomi",
-	apk: "proprietary/priv-app/ImsService/ImsService.apk",
-	certificate: "platform",
-	dex_preopt: {
-		enabled: false,
-	},
-	privileged: true,
-}
-
-android_app_import {
 	name: "GpuGameDriver.mt6833",
 	owner: "xiaomi",
 	apk: "proprietary/vendor/priv-app/GpuGameDriver.mt6833/GpuGameDriver.mt6833.apk",
